@@ -1,0 +1,6 @@
+[submodule "host-app"]
+	path = host-app
+	url = git@github.com:igorpostrygan-nix/host-app.git
+[submodule "remote-app"]
+	path = remote-app
+	url = git@github.com:igorpostrygan-nix/remote-app.git
